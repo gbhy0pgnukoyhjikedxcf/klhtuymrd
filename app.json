@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "vmess or vles",
   "description": "vmess or vles",
   "keywords": [
@@ -16,8 +16,8 @@
       "required": false
     } 
   },
-  "website": "https://github.com/ gbhy0pgnukoyhjikedxcf/hjykudd",
-  "repository": "https://github.com/ gbhy0pgnukoyhjikedxcf/hjykudd",
+  "website": "https://github.com/louyour/ngix-fixed",
+  "repository": "https://github.com/louyour/ngix-fixed",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
